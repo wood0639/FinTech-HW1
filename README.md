@@ -1,7 +1,7 @@
 # FinTech BootCamp HW1
 ## Overview and Origin
 
-* Name of company? 
+* **Name of company?** 
 Morningstar
 
 * When was the company incorporated? 
