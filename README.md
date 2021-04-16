@@ -2,7 +2,7 @@
 ## Overview and Origin
 
 * **Name of company?** 
-Morningstar
+### Morningstar
 
 * When was the company incorporated? 
 The company was founded on May 16, 1984 in Chicago, IL.
